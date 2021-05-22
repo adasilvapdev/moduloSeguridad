@@ -1,4 +1,4 @@
-# moduloSeguridad
+# Módulo de Seguridad
 
 # PROYECTO DE SISTEMAS OPERATIVOS I-2016
 	
