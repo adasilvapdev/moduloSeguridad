@@ -30,14 +30,9 @@
 	  (antes de las 20h)
 	
 	Nota. Módulos que se comunican con el módulo "Guardias de Seguridad":
-	- Supervisor: A las 8am, el supervisor da la orden a los guardias de 
-				  seguridad de abrir el supermercado para luego, 12 horas 
-				  después exactamente, dar la orden de cerrarlo.
-	- Servicio Técnico: Además, arrancar los procesos de seguridad tanto 
-						para los datos de transacciones como las grabaciones 
-						de las cámaras de vigilancia, para lo cual tienen que
-						solicitar el acceso al cuarto de grabación a los guardias
-						de seguridad. El respaldo se realiza diariamente, justo 
-						antes de vender productos regulados o, si no se venden
-						productos de este tipo, antes de cerrar el supermercado
-						(antes de las 20h).
+	- Supervisor: A las 8am, el supervisor da la orden a los guardias de seguridad de abrir el supermercado para luego, 12 horas después exactamente, 
+	              dar la orden de cerrarlo.
+
+	- Servicio Técnico: Además, arrancar los procesos de seguridad tanto para los datos de transacciones como las grabaciones de las cámaras de vigilancia,
+	                    para lo cual tienen que solicitar el acceso al cuarto de grabación a los guardias de seguridad. El respaldo se realiza diariamente, 
+			    justo antes de vender productos regulados o, si no se venden productos de este tipo, antes de cerrar el supermercado (antes de las 20h).
